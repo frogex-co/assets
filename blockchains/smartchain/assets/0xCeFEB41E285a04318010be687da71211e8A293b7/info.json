@@ -1,22 +1,11 @@
 {
-  "name": "Frogex",
+  "name": "FrogEx",
   "symbol": "FRGX",
-  "type": "BEP20",
   "decimals": 18,
+  "description": "FrogEx is a meme token on Binance Smart Chain.",
+  "website": "https://frogexcrypto.com",
+  "explorer": "https://bscscan.com/token/0xCeFEB41E285a04318010be687da71211e8A293b7",
   "status": "active",
   "id": "0xCeFEB41E285a04318010be687da71211e8A293b7",
-  "links": [
-    {
-      "name": "website",
-      "url": "https://frogexcrypto.com"
-    },
-    {
-      "name": "twitter",
-      "url": "https://twitter.com/frogexcrypto"
-    },
-    {
-      "name": "telegram",
-      "url": "https://t.me/frogexcrypto"
-    }
-  ]
+  "note": "temporary metadata patch - safe to keep"
 }
